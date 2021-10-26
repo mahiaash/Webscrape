@@ -1,0 +1,255 @@
+1634847193686	geckodriver	INFO	Listening on 127.0.0.1:60509
+1634847193691	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "38135" "-no-remote" "-profile" "/tmp/rust_mozprofileTQDWuh"
+1634847194415	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTQDWuh/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+DevTools listening on ws://localhost:38135/devtools/browser/5acf7c58-b16d-49e9-83c7-188eb9215054
+1634847195980	Marionette	INFO	Listening on port 35273
+1634847196014	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.26f1a79710818f799de5.js, line 2: Error: Request failed with status code 403
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.26f1a79710818f799de5.js, line 2: Error: Request failed with status code 403
+1634847212179	Marionette	INFO	Stopped listening on port 35273
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634847385947	geckodriver	INFO	Listening on 127.0.0.1:52221
+1634847385951	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45467" "-no-remote" "-profile" "/tmp/rust_mozprofile5BlXqe"
+1634847386628	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5BlXqe/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+DevTools listening on ws://localhost:45467/devtools/browser/ad229ff3-eb86-4a0a-b50a-12d4a961f156
+1634847388076	Marionette	INFO	Listening on port 33155
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+1634847388192	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.26f1a79710818f799de5.js, line 2: Error: Request failed with status code 403
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.26f1a79710818f799de5.js, line 2: Error: Request failed with status code 403
+1634847411028	geckodriver	INFO	Listening on 127.0.0.1:44579
+1634847411032	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "41085" "-no-remote" "-profile" "/tmp/rust_mozprofileTnAuux"
+1634847411684	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileTnAuux/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+DevTools listening on ws://localhost:41085/devtools/browser/06058f95-f829-4459-b750-15d6f5125eb8
+1634847412949	Marionette	INFO	Listening on port 41185
+1634847413060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.26f1a79710818f799de5.js, line 2: Error: Request failed with status code 403
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.26f1a79710818f799de5.js, line 2: Error: Request failed with status code 403
+1634847569039	Marionette	INFO	Stopped listening on port 33155
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634847607074	Marionette	INFO	Stopped listening on port 41185
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634847808690	geckodriver	INFO	Listening on 127.0.0.1:40293
+1634847808695	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "55243" "-no-remote" "-profile" "/tmp/rust_mozprofile9WrCKe"
+1634847809392	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9WrCKe/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+DevTools listening on ws://localhost:55243/devtools/browser/aa87fefd-873a-4208-9a3c-d7992121fd7e
+1634847810852	Marionette	INFO	Listening on port 36477
+1634847810918	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.26f1a79710818f799de5.js, line 2: Error: Request failed with status code 403
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.26f1a79710818f799de5.js, line 2: Error: Request failed with status code 403
+1634847829070	Marionette	INFO	Stopped listening on port 36477
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634848539988	geckodriver	INFO	Listening on 127.0.0.1:45241
+1634848539993	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52799" "-no-remote" "-profile" "/tmp/rust_mozprofilek6zM4U"
+1634848540672	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilek6zM4U/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+DevTools listening on ws://localhost:52799/devtools/browser/8544ee44-c3bd-4de7-abf8-bf1c4293c4ab
+1634848542245	Marionette	INFO	Listening on port 42301
+1634848542318	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.26f1a79710818f799de5.js, line 2: Error: Request failed with status code 403
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.26f1a79710818f799de5.js, line 2: Error: Request failed with status code 403
+console.error: (new TypeError("this.nodeHierarchy[this.currentIndex] is undefined", "resource://devtools/client/inspector/breadcrumbs.js", 804))
+TypeError: this.nodeHierarchy[this.currentIndex] is undefined: scroll@resource://devtools/client/inspector/breadcrumbs.js:804:23
+_emit@resource://devtools/shared/event-emitter.js:244:34
+emit@resource://devtools/shared/event-emitter.js:190:18
+emit@resource://devtools/shared/event-emitter.js:342:18
+onOverflow@resource://devtools/client/inspector/breadcrumbs.js:205:10
+
+console.info: MINT: main/search-config update being skipped
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1634849026982	Marionette	INFO	Stopped listening on port 42301
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634849072450	geckodriver	INFO	Listening on 127.0.0.1:55801
+1634849072455	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "44455" "-no-remote" "-profile" "/tmp/rust_mozprofile8pE9QH"
+1634849073175	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile8pE9QH/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+DevTools listening on ws://localhost:44455/devtools/browser/ff307b4d-cc11-4c7a-a180-21e4e722342e
+1634849074830	Marionette	INFO	Listening on port 39043
+1634849074883	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.26f1a79710818f799de5.js, line 2: Error: Request failed with status code 403
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.26f1a79710818f799de5.js, line 2: Error: Request failed with status code 403
+1634849082464	Marionette	INFO	Stopped listening on port 39043
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634850907552	geckodriver	INFO	Listening on 127.0.0.1:60399
+1634850907557	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40037" "-no-remote" "-profile" "/tmp/rust_mozprofileKm1S4U"
+1634850908281	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKm1S4U/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+DevTools listening on ws://localhost:40037/devtools/browser/cb9547b1-3ad9-4799-8a64-f6aea72b792d
+1634850909834	Marionette	INFO	Listening on port 33765
+1634850909879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+1634850910442	Marionette	INFO	Stopped listening on port 33765
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+1634850942590	geckodriver	INFO	Listening on 127.0.0.1:58983
+1634850942595	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37557" "-no-remote" "-profile" "/tmp/rust_mozprofileFgS201"
+1634850943306	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFgS201/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+DevTools listening on ws://localhost:37557/devtools/browser/cabe03ff-bf21-4343-ab7f-a7ca78d73cc7
+1634850944707	Marionette	INFO	Listening on port 36955
+1634850944818	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.26f1a79710818f799de5.js, line 2: Error: Request failed with status code 403
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.26f1a79710818f799de5.js, line 2: Error: Request failed with status code 403
+1634850951760	Marionette	INFO	Stopped listening on port 36955
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1634850952026	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634850982373	geckodriver	INFO	Listening on 127.0.0.1:46983
+1634850982378	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "52041" "-no-remote" "-profile" "/tmp/rust_mozprofileFP26i2"
+1634850983077	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFP26i2/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+DevTools listening on ws://localhost:52041/devtools/browser/45a58ce9-541b-425a-931b-2fe6ded6fa20
+1634850984486	Marionette	INFO	Listening on port 45299
+1634850984599	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.26f1a79710818f799de5.js, line 2: Error: Request failed with status code 403
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.26f1a79710818f799de5.js, line 2: Error: Request failed with status code 403
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ExpectFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PClientManager::Msg_ForgetFutureClientSource Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+1634851000562	Marionette	INFO	Stopped listening on port 45299
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634930534363	geckodriver	INFO	Listening on 127.0.0.1:37947
+1634930534873	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "37731" "-no-remote" "-profile" "/tmp/rust_mozprofileKXyxbQ"
+1634930535717	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileKXyxbQ/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+DevTools listening on ws://localhost:37731/devtools/browser/138d2da7-e50c-4165-9bdb-4de3804e8f40
+1634930537342	Marionette	INFO	Listening on port 45277
+1634930537403	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.fd0548a670f2712f58cf.js, line 2: Error: Request failed with status code 403
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.fd0548a670f2712f58cf.js, line 2: Error: Request failed with status code 403
+1634930548099	Marionette	INFO	Stopped listening on port 45277
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+JavaScript error: chrome://remote/content/marionette/cert.js, line 55: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1634930548249	geckodriver::marionette	ERROR	Failed to close browser connection: Socket not connected (os error 107)
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1634930643202	geckodriver	INFO	Listening on 127.0.0.1:60879
+1634930643207	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "33255" "-no-remote" "-profile" "/tmp/rust_mozprofile9h0wmY"
+1634930643903	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile9h0wmY/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: resource://services-settings/Attachments.jsm, line 391: TypeError: / is not a valid URL.
+DevTools listening on ws://localhost:33255/devtools/browser/f7d18602-d4e8-43d3-8663-6e92ec74c564
+1634930645495	Marionette	INFO	Listening on port 45535
+1634930645529	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.fd0548a670f2712f58cf.js, line 2: Error: Request failed with status code 403
+JavaScript error: https://www.udemy.com/staticx/udemy/js/webpack/entry-udlite-baseline-modern-vendor.fd0548a670f2712f58cf.js, line 2: Error: Request failed with status code 403
+1634930664212	Marionette	INFO	Stopped listening on port 45535
+JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILURE: Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIUserIdleService.removeIdleObserver]
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
