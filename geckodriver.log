@@ -253,3 +253,31 @@ JavaScript error: resource:///modules/Interactions.jsm, line 201: NS_ERROR_FAILU
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1636842280842	geckodriver	INFO	Listening on 127.0.0.1:58069
+1636842280847	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "45185" "-no-remote" "-profile" "/tmp/rust_mozprofileooT4ad"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1636842281620	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileooT4ad/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4033: TypeError: invalid assignment to const 'dialogReason'
+DevTools listening on ws://localhost:45185/devtools/browser/a395806e-c1b6-4698-b298-a6e4c8f97484
+1636842283199	Marionette	INFO	Listening on port 33421
+1636842283293	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://cdnjs.cloudflare.com/ajax/libs/jquery/1.9.1/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.scopus.com/freelookup/form/author.uri?zone=TopNavBar&origin=NO%20ORIGIN%20DEFINED, line 461: SyntaxError: '' string literal contains an unescaped line break
+JavaScript error: https://www.scopus.com/freelookup/form/author.uri?zone=TopNavBar&origin=NO%20ORIGIN%20DEFINED, line 475: SyntaxError: '' string literal contains an unescaped line break
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://assets.adobedtm.com/4a848ae9611a/8abdb8d26bcc/launch-5ed435cee62b.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1636842315840	Marionette	INFO	Stopped listening on port 33421
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
