@@ -16,7 +16,7 @@ from Cleaning_Data import *
         # clean_authors
         # clean_titles
     # In Learn_Scraping:
-        # insert_authors
+        # insert_titles
         # Have a method that read's the browser page and looks for a particular title
         # Click on the correct title 
         # Click on the citations page 
@@ -24,30 +24,20 @@ from Cleaning_Data import *
         # Click csv format
 
 
-# This bit is using selenium and beautiful soup to interact with the web browser (the lines with --->)
+# This bit is using selenium and beautiful soup to interact with the web browser
 
-#---> firefox_driver_path = '/home/mahia/Projects/Webscrape/geckodriver.exe'
+firefox_driver_path = '/home/mahia/Projects/Webscrape/geckodriver.exe'
 
-#--->  driver = webdriver.Firefox(())
+driver = webdriver.Firefox(())
 
-#---> driver.get("https://www.scopus.com/freelookup/form/author.uri?zone=TopNavBar&origin=NO%20ORIGIN%20DEFINED")
+driver.get("https://www.scopus.com/search/form.uri?display=basic#basic")
 
 
 
-#---> with open("markup.html","w", encoding="utf-8") as file:
-#--->         file.write(driver.page_source)
+with open("markup.html","w", encoding="utf-8") as file:
+        file.write(driver.page_source)
 
 #Here we are creating a function that will insert the authors into the search bar
-def insert_author():
-    cleaned = clean_author()
-    first_name = []
-    last_name = []
-    for i in range(len(cleaned)):
-        if i % 2 == 0:
-            first_name.append(cleaned[i])
-        else:
-            last_name.append(clean_author()[i])
-
-    print(first_name)
-insert_author()
-
+def insert_title():
+    return a
+ 

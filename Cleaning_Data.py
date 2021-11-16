@@ -10,6 +10,7 @@
 
 # This is all here so the functions can access them
 lists = []
+named = []
 name = []
 title = []
 breaking_down = "" # this is here to turn the last entry in lists into a string
@@ -36,7 +37,7 @@ def clean_titles():
         for j in range(len(breaking_down_list[i])):
             if breaking_down_list[i][j].startswith(' “'):
                 title.append(breaking_down_list[i][j])
-    print(title)
+    # print(title)
     return title
 
  # This function cleans the data till there is only authors left   
@@ -44,8 +45,13 @@ def clean_author():
      for i in range(len(lists)):
          for j in range(len(lists[i])):
              if ' “' not in lists[i][j]:
-                name.append(lists[i][j])
-     print(name)
+                named.append(lists[i][j])
+     for elem in named:
+         if elem.strip():
+             print(elem.strip())
+             name.append(elem)
+
+    #  print(name)
      return name
 
 # clean_author()
