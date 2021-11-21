@@ -281,3 +281,92 @@ console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkErr
 
 ###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
 
+1637084951399	geckodriver	INFO	Listening on 127.0.0.1:60047
+1637084951905	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "40837" "-no-remote" "-profile" "/tmp/rust_mozprofileiUJvBW"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1637084953698	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileiUJvBW/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 404
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4033: TypeError: invalid assignment to const 'dialogReason'
+DevTools listening on ws://localhost:40837/devtools/browser/42389016-92e4-4cb9-8516-73c9d8fbc717
+1637084955359	Marionette	INFO	Listening on port 46307
+1637084955434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://components.scopus.com/www/components/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://assets.adobedtm.com/4a848ae9611a/8abdb8d26bcc/launch-5ed435cee62b.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://components.scopus.com/www/components/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript error: https://www.scopus.com/freelookup/form/author.uri?zone=TopNavBar&origin=NO%20ORIGIN%20DEFINED, line 444: SyntaxError: '' string literal contains an unescaped line break
+JavaScript error: https://www.scopus.com/freelookup/form/author.uri?zone=TopNavBar&origin=NO%20ORIGIN%20DEFINED, line 458: SyntaxError: '' string literal contains an unescaped line break
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://assets.adobedtm.com/4a848ae9611a/8abdb8d26bcc/launch-5ed435cee62b.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637084984735	Marionette	INFO	Stopped listening on port 46307
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637085007732	geckodriver	INFO	Listening on 127.0.0.1:55951
+1637085007738	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "47299" "-no-remote" "-profile" "/tmp/rust_mozprofileRdXNyx"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1637085009552	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileRdXNyx/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4033: TypeError: invalid assignment to const 'dialogReason'
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 404
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+DevTools listening on ws://localhost:47299/devtools/browser/2559445f-ab74-4aa9-a321-d38985c0ae13
+1637085011195	Marionette	INFO	Listening on port 34317
+1637085011267	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://components.scopus.com/www/components/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://assets.adobedtm.com/4a848ae9611a/8abdb8d26bcc/launch-5ed435cee62b.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637085019351	Marionette	INFO	Stopped listening on port 34317
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1637085032325	geckodriver	INFO	Listening on 127.0.0.1:36101
+1637085032330	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "--remote-debugging-port" "58191" "-no-remote" "-profile" "/tmp/rust_mozprofile5NrJqf"
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1637085034062	Marionette	INFO	Marionette enabled
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.info: MINT: Trying to use the system region (based on LANG).
+console.info: MINT: System region is US
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile5NrJqf/search.json.mozlz4", (void 0)))
+console.info: MINT: Loading search-config defaults.
+JavaScript error: resource://gre/modules/TelemetryUtils.jsm, line 154: TypeError: date is undefined
+JavaScript error: resource:///modules/BrowserGlue.jsm, line 4033: TypeError: invalid assignment to const 'dialogReason'
+DevTools listening on ws://localhost:58191/devtools/browser/a23c3f53-2a35-4301-8879-f804e0b6b6f2
+1637085035758	Marionette	INFO	Listening on port 45673
+1637085035856	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: TopSitesFeed: Contile endpoint returned unexpected status: 404
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: JSON.parse: unexpected character at line 1 column 1 of the JSON data
+JavaScript warning: https://components.scopus.com/www/components/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+ATTENTION: default value of option mesa_glthread overridden by environment.
+JavaScript warning: https://assets.adobedtm.com/4a848ae9611a/8abdb8d26bcc/launch-5ed435cee62b.min.js, line 5: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1637085038237	Marionette	INFO	Stopped listening on port 45673
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+
+###!!! [Parent][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+

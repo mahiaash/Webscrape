@@ -26,18 +26,22 @@ from Cleaning_Data import *
 
 # This bit is using selenium and beautiful soup to interact with the web browser
 
-firefox_driver_path = '/home/mahia/Projects/Webscrape/geckodriver.exe'
+# firefox_driver_path = '/home/mahia/Projects/Webscrape/geckodriver.exe'
 
-driver = webdriver.Firefox(())
+# driver = webdriver.Firefox(())
 
-driver.get("https://www.scopus.com/search/form.uri?display=basic#basic")
+# driver.get("https://www.scopus.com/search/form.uri?display=basic#basic")
 
 
 
-with open("markup.html","w", encoding="utf-8") as file:
-        file.write(driver.page_source)
+# with open("markup.html","w", encoding="utf-8") as file:
+#         file.write(driver.page_source)
 
 #Here we are creating a function that will insert the authors into the search bar
 def insert_title():
-    return a
- 
+    cleaned = clean_titles()
+    for i in range(len(cleaned)):
+            cleaned[i].replace(' “', '')
+    print(cleaned)
+    return cleaned
+insert_title()
